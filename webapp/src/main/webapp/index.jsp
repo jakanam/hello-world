@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> This is pushed from local to git </h1>
+   <h1> New Commit </h1>
 
   
 </form>
